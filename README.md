@@ -9,14 +9,20 @@ This list is being updated continuously 😁
 
 ## Engineering Books
 
-- [Clean code](https://github.com/SaikrishnaReddy1919/MyBooks/blob/master/%5BPROGRAMMING%5D%5BClean%20Code%20by%20Robert%20C%20Martin%5D.pdf)
 - [She engineers](https://www.amazon.com/She-Engineers-Outsmart-Potential-Engineering-ebook/dp/B0795N6N37)
 
 ## HTML / CSS
 
+- [HTML elements reference - Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- [HTML Reference](https://htmlreference.io/)
+
+- [CSS Reference](https://cssreference.io/)
 - [Flexbox Froggy](https://flexboxfroggy.com/#es)
 - [Grid Garden](https://cssgridgarden.com/#es)
 - [CSS Diner](https://flukeout.github.io/)
+
+## Animation
+- [Cubic Bezier](https://cubic-bezier.com/#.17,.67,.83,.67)
 
 ## Javascript
 - [Javascript garden](http://bonsaiden.github.io/JavaScript-Garden/)
@@ -40,4 +46,5 @@ This list is being updated continuously 😁
 ## Tools
 
 - [Can I use?](https://caniuse.com/)
+- [Carbon.now.sh](https://carbon.now.sh/)
 
