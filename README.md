@@ -15,7 +15,6 @@ This list is being updated continuously 😁
 
 - [HTML elements reference - Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [HTML Reference](https://htmlreference.io/)
-
 - [CSS Reference](https://cssreference.io/)
 - [Flexbox Froggy](https://flexboxfroggy.com/#es)
 - [Grid Garden](https://cssgridgarden.com/#es)
