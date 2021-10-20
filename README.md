@@ -17,8 +17,10 @@ This list is being updated continuously 😁
 #### References
 - [HTML elements reference - Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [HTML Reference](https://htmlreference.io/)
+- [HTML Hell](https://www.htmhell.dev/)
 - [CSS Reference](https://cssreference.io/)
 - [CSS Almanac](https://almanac.httparchive.org/en/2020/css)
+- [CSS Hell](https://csshell.dev/)
 
 ## Design Systems
 
