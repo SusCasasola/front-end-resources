@@ -16,6 +16,7 @@ This list is being updated continuously 😁
 - __📃 References__: [CSS Houdini](https://houdini.how/)
 - __📃 References__: [CSS One line layouts](https://web.dev/one-line-layouts/)
 - __🛠 Tools__: [Can I use?](https://caniuse.com/)
+- __🛠 Tools__: [Can include?](https://caninclude.glitch.me/)
 
 ## Accessibility
 - __📚 Learning__: [Accessibility: the Beginners Guide](https://www.deque.com/web-accessibility-beginners-guide/)
@@ -31,8 +32,8 @@ This list is being updated continuously 😁
 - __📃 References__: [Component gallery](https://component.gallery/)
 
 ## Javascript
-- __📚 Learning__: [Javascript guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - __📚 Learning__: [Just Javascript](https://justjavascript.com/)
+- __📃 References__: [Javascript guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - __📃 References__: [Javascript garden](http://bonsaiden.github.io/JavaScript-Garden/)
 
 ## Testing
