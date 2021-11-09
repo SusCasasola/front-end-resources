@@ -4,9 +4,12 @@ This list is being updated continuously 😁
 
 ## HTML / CSS
 - __📚 Learning__: [Learn CSS](https://web.dev/learn/css/)
-- __🕹 Learning games__: [Flexbox Froggy](https://flexboxfroggy.com/#es)
+- __🕹 Learning games__: [CSS Battle](https://cssbattle.dev/)
 - __🕹 Learning games__: [Grid Garden](https://cssgridgarden.com/#es)
 - __🕹 Learning games__: [CSS Diner](https://flukeout.github.io/)
+- __🕹 Learning games__: [Flexbox Froggy](https://flexboxfroggy.com/#es)
+- __🕹 Learning games__: [Flexbox Defense](http://www.flexboxdefense.com/)
+- __🕹 Learning games__: [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies)
 - __📃 References__: [HTML Reference](https://htmlreference.io/)
 - __📃 References__: [HTML elements reference - Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - __📃 References__: [HTML Hell](https://www.htmhell.dev/)
