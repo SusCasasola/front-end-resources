@@ -19,6 +19,7 @@ This list is being updated continuously 😁
 - __📃 References__: [CSS Houdini](https://houdini.how/)
 - __📃 References__: [CSS One line layouts](https://web.dev/one-line-layouts/)
 - __🛠 Tools__: [Can I use?](https://caniuse.com/)
+- __🛠 Tools__: [Can I emoji?](https://caniemoji.com/)
 - __🛠 Tools__: [Can include?](https://caninclude.glitch.me/)
 
 ## Accessibility
