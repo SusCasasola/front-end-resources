@@ -37,6 +37,7 @@ This list is being updated continuously 😁
 
 ## Javascript
 - __📚 Learning__: [Just Javascript](https://justjavascript.com/)
+- __📚 Learning__: [Patterns](https://www.patterns.dev/)
 - __📃 References__: [Javascript guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - __📃 References__: [Javascript garden](http://bonsaiden.github.io/JavaScript-Garden/)
 
