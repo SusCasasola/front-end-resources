@@ -40,6 +40,7 @@ This list is being updated continuously 😁
 - __📚 Learning__: [Patterns](https://www.patterns.dev/)
 - __📃 References__: [Javascript guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - __📃 References__: [Javascript garden](http://bonsaiden.github.io/JavaScript-Garden/)
+- __🛠 Tools__: [Openbase](https://openbase.com/)
 
 ## Testing
 - __📚 Learning__: [Testing javascript](https://testingjavascript.com/)
