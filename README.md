@@ -23,17 +23,27 @@ This list is being updated continuously 😁
 - __🛠 Tools__: [Can include?](https://caninclude.glitch.me/)
 
 ## Accessibility
+- __📚 Learning__: [Practical Accessibility](https://practical-accessibility.today/)
 - __📚 Learning__: [Accessibility: the Beginners Guide](https://www.deque.com/web-accessibility-beginners-guide/)
 - __📚 Learning__: [Deque University](https://dequeuniversity.com)
 - __📚 Learning__: [Egghead.io A11y course](https://egghead.io/courses/start-building-accessible-web-applications-today)
 - __📚 Learning__: [Writing automated tests for accessibility](https://www.24a11y.com/2017/writing-automated-tests-accessibility/)
+- __📚 Learning__: [Learning web accessibility made easy](https://a11yphant.com/)
+- __📃 References__: [Accessibility Not-Checklist](https://not-checklist.intopia.digital/)
 - __📃 References__: [ARIA Authoring Practices](https://www.w3.org/TR/wai-aria-practices-1.1/)
 - __🛠 Tools__: [aXe Accessibility Testing Tools](https://deque.com/axe)
 - __🛠 Tools__: [Cypress aXe](https://www.npmjs.com/package/cypress-axe)
 - __🛠 Tools__: [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
 
 ## Design Systems
+- __📚 Learning__: [Make Design Systems People Want to Use](https://danmall.com/products/make-design-systems-people-want-to-use/)
+- __📚 Learning__: [Design System in 90 Days](https://danmall.com/products/design-system-in-90-days/)
 - __📃 References__: [Component gallery](https://component.gallery/)
+- __📃 References__: [The Design Systems guide](https://thedesignsystem.guide/)
+- __📃 References__: [Open Design Systems. A design systems publication by Figma](https://www.designsystems.com/open-design-systems/)
+- __📃 References__: [Design System Checklist](https://www.designsystemchecklist.com/)
+- __📃 References__: [Design System ROI Calculator](https://www.knapsack.cloud/calculator)
+- __📃 References__: [The Ultimate Design Systems Resources List](https://designstrategy.guide/design-management/the-ultimate-design-systems-resources-list/)
 
 ## Javascript
 - __📚 Learning__: [Just Javascript](https://justjavascript.com/)
@@ -59,6 +69,7 @@ This list is being updated continuously 😁
 - __🛠 Tools__: [Cubic Bezier](https://cubic-bezier.com/#.17,.67,.83,.67)
 
 ## UI
+- __📚 Learning__: [Smart Interface Design Patterns](https://smart-interface-design-patterns.com/)
 - __🛠 Tools__: [Carbon.now.sh](https://carbon.now.sh/)
 - __🛠 Tools__: [Parametric Color Mixer](https://colormixer.web.app/)
 - __🛠 Tools__: [Open source illustrations](https://undraw.co/)
