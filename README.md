@@ -3,87 +3,163 @@
 This list is being updated continuously 😁
 
 ## HTML / CSS
-- __📚 Learning__: [Learn CSS](https://web.dev/learn/css/)
-- __🕹 Learning games__: [CSS Battle](https://cssbattle.dev/)
-- __🕹 Learning games__: [Grid Garden](https://cssgridgarden.com/#es)
-- __🕹 Learning games__: [CSS Diner](https://flukeout.github.io/)
-- __🕹 Learning games__: [Flexbox Froggy](https://flexboxfroggy.com/#es)
-- __🕹 Learning games__: [Flexbox Defense](http://www.flexboxdefense.com/)
-- __🕹 Learning games__: [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies)
-- __📃 References__: [HTML Reference](https://htmlreference.io/)
-- __📃 References__: [HTML elements reference - Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-- __📃 References__: [HTML Hell](https://www.htmhell.dev/)
-- __📃 References__: [CSS Reference](https://cssreference.io/)
-- __📃 References__: [CSS Almanac](https://almanac.httparchive.org/en/2020/css)
-- __📃 References__: [CSS Hell](https://csshell.dev/)
-- __📃 References__: [CSS Houdini](https://houdini.how/)
-- __📃 References__: [CSS One line layouts](https://web.dev/one-line-layouts/)
-- __🛠 Tools__: [Can I use?](https://caniuse.com/)
-- __🛠 Tools__: [Can I emoji?](https://caniemoji.com/)
-- __🛠 Tools__: [Can include?](https://caninclude.glitch.me/)
+
+### 📚 Learning
+
+- [Learn CSS](https://web.dev/learn/css/)
+
+### 🤓 Quizes
+- [CSS Specificity](http://css-specificity.smnarnold.com/?level=tag-vs-id)
+
+### 🕹 Learning games
+
+- [CSS Battle](https://cssbattle.dev/)
+- [Grid Garden](https://cssgridgarden.com/#es)
+- [CSS Diner](https://flukeout.github.io/)
+- [CSS Positioning](https://ishadeed.com/article/learn-css-positioning/)
+- [Flexbox Froggy](https://flexboxfroggy.com/#es)
+- [Flexbox Defense](http://www.flexboxdefense.com/)
+- [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies)
+
+### 📃 References
+
+- [HTML Reference](https://htmlreference.io/)
+- [HTML Elements reference - Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- [HTML Hell](https://www.htmhell.dev/)
+- [CSS Reference](https://cssreference.io/)
+- [CSS Almanac](https://almanac.httparchive.org/en/2020/css)
+- [CSS Hell](https://csshell.dev/)
+- [CSS Houdini](https://houdini.how/)
+- [CSS One line layouts](https://web.dev/one-line-layouts/)
+
+### Tools
+
+- [Can I use?](https://caniuse.com/)
+- [Can I emoji?](https://caniemoji.com/)
+- [Can include?](https://caninclude.glitch.me/)
+- [Grid layout generator](https://grid.layoutit.com/)
+- [CSS grid generator](https://cssgrid-generator.netlify.app/)
+- [CSS layout generator](https://layout.bradwoods.io/)
+- [Shadow palette generator](https://www.joshwcomeau.com/shadow-palette/)
+
 
 ## Accessibility
-- __📚 Learning__: [Practical Accessibility](https://practical-accessibility.today/)
-- __📚 Learning__: [Accessibility: the Beginners Guide](https://www.deque.com/web-accessibility-beginners-guide/)
-- __📚 Learning__: [Deque University](https://dequeuniversity.com)
-- __📚 Learning__: [Egghead.io A11y course](https://egghead.io/courses/start-building-accessible-web-applications-today)
-- __📚 Learning__: [Writing automated tests for accessibility](https://www.24a11y.com/2017/writing-automated-tests-accessibility/)
-- __📚 Learning__: [Learning web accessibility made easy](https://a11yphant.com/)
-- __📃 References__: [Accessibility Not-Checklist](https://not-checklist.intopia.digital/)
-- __📃 References__: [ARIA Authoring Practices](https://www.w3.org/TR/wai-aria-practices-1.1/)
-- __🛠 Tools__: [aXe Accessibility Testing Tools](https://deque.com/axe)
-- __🛠 Tools__: [Cypress aXe](https://www.npmjs.com/package/cypress-axe)
-- __🛠 Tools__: [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
+
+### 📚 Learning
+
+- [Practical Accessibility](https://practical-accessibility.today/)
+- [Accessibility: the Beginners Guide](https://www.deque.com/web-accessibility-beginners-guide/)
+- [Deque University](https://dequeuniversity.com)
+- [Egghead.io A11y course](https://egghead.io/courses/start-building-accessible-web-applications-today)
+- [Writing automated tests for accessibility](https://www.24a11y.com/2017/writing-automated-tests-accessibility/)
+- [Learning web accessibility made easy](https://a11yphant.com/)
+
+### 📃 References
+
+- [Accessibility Not-Checklist](https://not-checklist.intopia.digital/)
+- [ARIA Authoring Practices](https://www.w3.org/TR/wai-aria-practices-1.1/)
+
+### 🛠 Tools
+- [aXe Accessibility Testing Tools](https://deque.com/axe)
+- [Cypress aXe](https://www.npmjs.com/package/cypress-axe)
+- [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
 
 ## Design Systems
-- __📚 Learning__: [Make Design Systems People Want to Use](https://danmall.com/products/make-design-systems-people-want-to-use/)
-- __📚 Learning__: [Design System in 90 Days](https://danmall.com/products/design-system-in-90-days/)
-- __📃 References__: [Component gallery](https://component.gallery/)
-- __📃 References__: [The Design Systems guide](https://thedesignsystem.guide/)
-- __📃 References__: [Open Design Systems. A design systems publication by Figma](https://www.designsystems.com/open-design-systems/)
-- __📃 References__: [Design System Checklist](https://www.designsystemchecklist.com/)
-- __📃 References__: [Design System ROI Calculator](https://www.knapsack.cloud/calculator)
-- __📃 References__: [The Ultimate Design Systems Resources List](https://designstrategy.guide/design-management/the-ultimate-design-systems-resources-list/)
+
+### 📚 Learning
+
+- [Make Design Systems People Want to Use](https://danmall.com/products/make-design-systems-people-want-to-use/)
+- [Design System in 90 Days](https://danmall.com/products/design-system-in-90-days/)
+
+### 📃 References
+
+- [Component gallery](https://component.gallery/)
+- [The Design Systems guide](https://thedesignsystem.guide/)
+- [Open Design Systems. A design systems publication by Figma](https://www.designsystems.com/open-design-systems/)
+- [Design System Checklist](https://www.designsystemchecklist.com/)
+- [Design System ROI Calculator](https://www.knapsack.cloud/calculator)
+- [The Ultimate Design Systems Resources List](https://designstrategy.guide/design-management/the-ultimate-design-systems-resources-list/)
 
 ## Javascript
-- __📚 Learning__: [Just Javascript](https://justjavascript.com/)
-- __📚 Learning__: [Patterns](https://www.patterns.dev/)
-- __📃 References__: [Javascript guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-- __📃 References__: [Javascript garden](http://bonsaiden.github.io/JavaScript-Garden/)
-- __🛠 Tools__: [Openbase](https://openbase.com/)
+
+### 📚 Learning
+
+- [Just Javascript](https://justjavascript.com/)
+- [Patterns](https://www.patterns.dev/)
+
+### 📃 References
+
+- [Javascript guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- [Javascript garden](http://bonsaiden.github.io/JavaScript-Garden/)
+
+### 🛠 Tools
+
+- [Openbase](https://openbase.com/)
 
 ## Testing
-- __📚 Learning__: [Testing javascript](https://testingjavascript.com/)
-- __📚 Learning__: [Testing implementation details](https://kentcdodds.com/blog/testing-implementation-details)
-- __📃 References__: [Better specs](http://www.betterspecs.org/)
+
+### 📚 Learning
+
+- [Testing javascript](https://testingjavascript.com/)
+- [Testing implementation details](https://kentcdodds.com/blog/testing-implementation-details)
+
+### 📃 References
+
+- [Better specs](http://www.betterspecs.org/)
 
 ## React
-- __📚 Learning__: [Epic React - Kent C. Dodds](https://epicreact.dev/learn)
-- __📚 Learning__: [React patterns](https://reactpatterns.com/)
+
+### 📚 Learning
+
+- [Epic React - Kent C. Dodds](https://epicreact.dev/learn)
+- [React patterns](https://reactpatterns.com/)
 
 ## Vue
-- __📚 Learning__: [Vue - The Complete Guide - Maximilian Schwarzmüller](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
-- __📚 Learning__: [Vue patterns](https://learn-vuejs.github.io/vue-patterns/)
+
+### 📚 Learning
+
+- [Vue - The Complete Guide - Maximilian Schwarzmüller](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
+- [Vue patterns](https://learn-vuejs.github.io/vue-patterns/)
 
 ## Animations
-- __🛠 Tools__: [Cubic Bezier](https://cubic-bezier.com/#.17,.67,.83,.67)
+
+### 🛠 Tools
+
+- [Cubic Bezier](https://cubic-bezier.com/#.17,.67,.83,.67)
 
 ## UI
-- __📚 Learning__: [Smart Interface Design Patterns](https://smart-interface-design-patterns.com/)
-- __🛠 Tools__: [Carbon.now.sh](https://carbon.now.sh/)
-- __🛠 Tools__: [Parametric Color Mixer](https://colormixer.web.app/)
-- __🛠 Tools__: [Open source illustrations](https://undraw.co/)
-- __🛠 Tools__: [DrawKit](https://drawkit.com/)
-- __🛠 Tools__: [Avataaars](https://avataaars.com/)
-- __🛠 Tools__: [Hero Patterms](http://www.heropatterns.com/)
-- __🛠 Tools__: [Picrew me](https://picrew.me/)
-- __🛠 Tools__: [TLDraw](https://www.tldraw.com/)
+### 📚 Learning
+- [Smart Interface Design Patterns](https://smart-interface-design-patterns.com/)
+
+### 🛠 Tools
+- [Carbon.now.sh](https://carbon.now.sh/)
+- [Parametric Color Mixer](https://colormixer.web.app/)
+- [Open source illustrations](https://undraw.co/)
+- [DrawKit](https://drawkit.com/)
+- [Avataaars](https://avataaars.com/)
+- [Hero Patterms](http://www.heropatterns.com/)
+- [Picrew me](https://picrew.me/)
+- [TLDraw](https://www.tldraw.com/)
+- [Color Space](https://mycolor.space/)
+- [Random accessible color combinations](https://randoma11y.com/)
 
 ## Others
-- __🤓 Algorithms__: [Leet Code](https://leetcode.com/)
-- __🤓 Algorithms__: [Code Signal](https://codesignal.com/)
-- __🤓 Algorithms__: [Technical Interviews](https://technicalinterviews.dev/login)
-- __📖 Books__: [She engineers](https://www.amazon.com/She-Engineers-Outsmart-Potential-Engineering-ebook/dp/B0795N6N37)
-- __🎙 Podcasts__: [The CSS Podcast](https://pod.link/thecsspodcast)
-- __🧩 Playgrounds__: [Codepen](https://codepen.io/)
-- __🧩 Playgrounds__: [Codesandbox](https://codesandbox.io/)
+
+### 🤓 Algorithms
+
+- [Leet Code](https://leetcode.com/)
+- [Code Signal](https://codesignal.com/)
+- [Technical Interviews](https://technicalinterviews.dev/login)
+
+### 📖 Books
+
+- [She engineers](https://www.amazon.com/She-Engineers-Outsmart-Potential-Engineering-ebook/dp/B0795N6N37)
+
+### 🎙 Podcasts
+
+- [The CSS Podcast](https://pod.link/thecsspodcast)
+
+### 🧩 Playgrounds
+
+- [Codepen](https://codepen.io/)
+- [Codesandbox](https://codesandbox.io/)
