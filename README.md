@@ -41,6 +41,7 @@ This list is being updated continuously 😁
 - [CSS grid generator](https://cssgrid-generator.netlify.app/)
 - [CSS layout generator](https://layout.bradwoods.io/)
 - [Shadow palette generator](https://www.joshwcomeau.com/shadow-palette/)
+- [CSS HDR Gradients](https://gradient.style/)
 
 
 ## Accessibility
@@ -145,6 +146,8 @@ This list is being updated continuously 😁
 - [Random accessible color combinations](https://randoma11y.com/)
 - [Odd Contrast](https://www.oddcontrast.com/)
 - [Real time colors](https://www.realtimecolors.com/)
+- [SVG Crop](https://svgcrop.com/)
+
 
 ## Others
 
